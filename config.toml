@@ -1,6 +1,6 @@
 baseURL               = "https://nav.mocha.city/"
 languageCode          = "zh-CN"
-title                 = "Mocha's Navigation"
+title                 = "中文圈程序员的碎碎念"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
