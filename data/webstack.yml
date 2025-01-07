@@ -2,21 +2,33 @@
 - taxonomy: 常用网站
   icon: far fa-star
   links: 
-    - title: GitHub
-      url: https://github.com/
-      logo: https://icons.duckduckgo.com/ip3/github.com.ico
-    - title: HelloGithub
-      url: https://hellogithub.com/
-      logo: https://icons.duckduckgo.com/ip3/hellogithub.com.ico
-    - title: Vercel
-      url: https://www.vercel.com/
-      logo: https://icons.duckduckgo.com/ip3/www.vercel.com.ico
-    - title: Greasyfork
-      url: https://greasyfork.org/zh-CN/
-      logo: https://icons.duckduckgo.com/ip3/greasyfork.org.ico
-    - title: Ping Test
-      url: http://ping.pe/
-      logo: https://icons.duckduckgo.com/ip3/ping.com.ico
+    - logo: https://icons.duckduckgo.com/ip3/blog.lilydjwg.me.ico
+      title: Blog
+      url: https://blog.lilydjwg.me/feed
+    - logo: https://icons.duckduckgo.com/ip3/immmmm.com.ico
+      title: Immmmm
+      url: https://immmmm.com/atom.xml
+    - logo: https://icons.duckduckgo.com/ip3/coolshell.cn.ico
+      title: Coolshell
+      url: https://coolshell.cn/feed
+    - logo: https://icons.duckduckgo.com/ip3/kingname.info.ico
+      title: Kingname
+      url: https://kingname.info/atom.xml
+    - logo: https://icons.duckduckgo.com/ip3/rsshub.app.ico
+      title: Rsshub
+      url: https://rsshub.app/csdn/blog/iamsujie
+    - logo: https://icons.duckduckgo.com/ip3/catcoding.me.ico
+      title: Catcoding
+      url: https://catcoding.me/atom.xml
+    - logo: https://icons.duckduckgo.com/ip3/blog.debuginn.com.ico
+      title: Blog
+      url: https://blog.debuginn.com/index.xml
+    - logo: https://icons.duckduckgo.com/ip3/blog.codingnow.com.ico
+      title: Blog
+      url: https://blog.codingnow.com/index.xml
+    - logo: https://icons.duckduckgo.com/ip3/atjason.com.ico
+      title: Atjason
+      url: https://atjason.com/atom.xml
       
 - taxonomy: 云服务商
   icon: fab fa-cloudversify
