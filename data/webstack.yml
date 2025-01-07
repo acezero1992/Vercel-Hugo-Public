@@ -5,30 +5,256 @@
     - logo: https://icons.duckduckgo.com/ip3/blog.lilydjwg.me.ico
       title: Blog
       url: https://blog.lilydjwg.me/feed
-    - logo: https://icons.duckduckgo.com/ip3/immmmm.com.ico
-      title: Immmmm
-      url: https://immmmm.com/atom.xml
-    - logo: https://icons.duckduckgo.com/ip3/coolshell.cn.ico
-      title: Coolshell
-      url: https://coolshell.cn/feed
-    - logo: https://icons.duckduckgo.com/ip3/kingname.info.ico
-      title: Kingname
-      url: https://kingname.info/atom.xml
-    - logo: https://icons.duckduckgo.com/ip3/rsshub.app.ico
-      title: Rsshub
+    - title: 依云's Blog
+      url: https://blog.lilydjwg.me
+      logo: https://icons.duckduckgo.com/ip3/blog.lilydjwg.me.ico
+    - title: 木木木木木
+      url: https://immmmm.com
+      logo: https://icons.duckduckgo.com/ip3/immmmm.com.ico
+    - title: 酷 壳 – CoolShell
+      url: https://coolshell.cn
+      logo: https://icons.duckduckgo.com/ip3/coolshell.cn.ico
+    - title: 谢乾坤 | Kingname
+      url: https://kingname.info
+      logo: https://icons.duckduckgo.com/ip3/kingname.info.ico
+    - title: 人人都是产品经理 - CSDN博客
       url: https://rsshub.app/csdn/blog/iamsujie
-    - logo: https://icons.duckduckgo.com/ip3/catcoding.me.ico
-      title: Catcoding
-      url: https://catcoding.me/atom.xml
-    - logo: https://icons.duckduckgo.com/ip3/blog.debuginn.com.ico
-      title: Blog
-      url: https://blog.debuginn.com/index.xml
-    - logo: https://icons.duckduckgo.com/ip3/blog.codingnow.com.ico
-      title: Blog
-      url: https://blog.codingnow.com/index.xml
-    - logo: https://icons.duckduckgo.com/ip3/atjason.com.ico
-      title: Atjason
-      url: https://atjason.com/atom.xml
+      logo: https://icons.duckduckgo.com/ip3/rsshub.app.ico
+    - title: CatCoding
+      url: https://catcoding.me
+      logo: https://icons.duckduckgo.com/ip3/catcoding.me.ico
+    - title: Debug客栈
+      url: https://blog.debuginn.com
+      logo: https://icons.duckduckgo.com/ip3/blog.debuginn.com.ico
+    - title: 云风的 BLOG
+      url: https://blog.codingnow.com
+      logo: https://icons.duckduckgo.com/ip3/blog.codingnow.com.ico
+    - title: Jason
+      url: https://atjason.com
+      logo: https://icons.duckduckgo.com/ip3/atjason.com.ico
+    - title: 夜行人
+      url: http://wwj718.github.io
+      logo: https://icons.duckduckgo.com/ip3/wwj718.github.io.ico
+    - title: 余海峯 David | 物理喵 phycat
+      url: https://hfdavidyu.com
+      logo: https://icons.duckduckgo.com/ip3/hfdavidyu.com.ico
+    - title: 某高老师 - 人间观察
+      url: https://someonegao.com
+      logo: https://icons.duckduckgo.com/ip3/someonegao.com.ico
+    - title: Nicksxs's Blog
+      url: https://nicksxs.me
+      logo: https://icons.duckduckgo.com/ip3/nicksxs.me.ico
+    - title: Randy's Blog
+      url: https://lutaonan.com
+      logo: https://icons.duckduckgo.com/ip3/lutaonan.com.ico
+    - title: Blog on Reorx’s Forge
+      url: https://reorx.com/blog
+      logo: https://icons.duckduckgo.com/ip3/reorx.com.ico
+    - title: iTimothy
+      url: https://xiaozhou.net
+      logo: https://icons.duckduckgo.com/ip3/xiaozhou.net.ico
+    - title: HelloDog
+      url: https://wsgzao.github.io
+      logo: https://icons.duckduckgo.com/ip3/wsgzao.github.io.ico
+    - title: Mr. PM 下午先生
+      url: https://mrpm.cc
+      logo: https://icons.duckduckgo.com/ip3/mrpm.cc.ico
+    - title: forecho's Blog
+      url: https://blog.forecho.com
+      logo: https://icons.duckduckgo.com/ip3/blog.forecho.com.ico
+    - title: 唐巧的博客
+      url: https://blog.devtang.com
+      logo: https://icons.duckduckgo.com/ip3/blog.devtang.com.ico
+    - title: 卢昌海个人主页
+      url: https://www.changhai.org
+      logo: https://icons.duckduckgo.com/ip3/www.changhai.org.ico
+    - title: 动物的光合作用
+      url: https://mebtte.com
+      logo: https://icons.duckduckgo.com/ip3/mebtte.com.ico
+    - title: 鸟窝
+      url: https://colobu.com
+      logo: https://icons.duckduckgo.com/ip3/colobu.com.ico
+    - title: 阮一峰的网络日志
+      url: https://feeds.feedburner.com/ruanyifeng
+      logo: https://icons.duckduckgo.com/ip3/feeds.feedburner.com.ico
+    - title: The Will Will Web
+      url: https://feeds.feedburner.com/TheWillWillWeb
+      logo: https://icons.duckduckgo.com/ip3/feeds.feedburner.com.ico
+    - title: 吕小荣
+      url: https://mednoter.com
+      logo: https://icons.duckduckgo.com/ip3/mednoter.com.ico
+    - title: 积薪 - 文章
+      url: https://darmau.co/zh/article
+      logo: https://icons.duckduckgo.com/ip3/darmau.co.ico
+    - title: 中文博客 on 范叶亮 | Leo Van
+      url: https://leovan.me/cn
+      logo: https://icons.duckduckgo.com/ip3/leovan.me.ico
+    - title: 桑弧蓬矢射四方
+      url: https://iphyer.github.io
+      logo: https://icons.duckduckgo.com/ip3/iphyer.github.io.ico
+    - title: 硕鼠的博客站
+      url: https://lukefan.com
+      logo: https://icons.duckduckgo.com/ip3/lukefan.com.ico
+    - title: est の 输入 输出和出入
+      url: https://feeds.feedburner.com/initiative
+      logo: https://icons.duckduckgo.com/ip3/feeds.feedburner.com.ico
+    - title: SEO 网站优化及网站推广
+      url: https://seo.g2soft.net
+      logo: https://icons.duckduckgo.com/ip3/seo.g2soft.net.ico
+    - title: Jack Liu博客-RSS订阅
+      url: https://www.jack-liu.com
+      logo: https://icons.duckduckgo.com/ip3/www.jack-liu.com.ico
+    - title: Jiajun的技术笔记
+      url: https://jiajunhuang.com
+      logo: https://icons.duckduckgo.com/ip3/jiajunhuang.com.ico
+    - title: Jacky Wong
+      url: https://jw1.dev
+      logo: https://icons.duckduckgo.com/ip3/jw1.dev.ico
+    - title: 王登科-DK博客
+      url: https://greatdk.com
+      logo: https://icons.duckduckgo.com/ip3/greatdk.com.ico
+    - title: 61’s life
+      url: https://61.life
+      logo: https://icons.duckduckgo.com/ip3/61.life.ico
+    - title: Usubeni Fantasy
+      url: https://ssshooter.com
+      logo: https://icons.duckduckgo.com/ip3/ssshooter.com.ico
+    - title: CyberClip
+      url: https://shyrz.me
+      logo: https://icons.duckduckgo.com/ip3/shyrz.me.ico
+    - title: Joe’s Blog
+      url: https://hijiangtao.github.io
+      logo: https://icons.duckduckgo.com/ip3/hijiangtao.github.io.ico
+    - title: Yiran's Blog
+      url: https://zdyxry.github.io
+      logo: https://icons.duckduckgo.com/ip3/zdyxry.github.io.ico
+    - title: 把酒诗代码，趁乱写年华。
+      url: https://102no.com
+      logo: https://icons.duckduckgo.com/ip3/102no.com.ico
+    - title: MiaoTony's小窝
+      url: https://miaotony.xyz
+      logo: https://icons.duckduckgo.com/ip3/miaotony.xyz.ico
+    - title: O3noBLOG
+      url: https://feeds.feedburner.com/othree
+      logo: https://icons.duckduckgo.com/ip3/feeds.feedburner.com.ico
+    - title: 码志
+      url: https://mazhuang.org
+      logo: https://icons.duckduckgo.com/ip3/mazhuang.org.ico
+    - title: 学习者的个人主页
+      url: https://pimgeek.com/feed/page
+      logo: https://icons.duckduckgo.com/ip3/pimgeek.com.ico
+    - title: 不吐不快
+      url: https://mianao.info
+      logo: https://icons.duckduckgo.com/ip3/mianao.info.ico
+    - title: 土木坛子
+      url: https://tumutanzi.com
+      logo: https://icons.duckduckgo.com/ip3/tumutanzi.com.ico
+    - title: Mayx的博客
+      url: https://mabbs.github.io
+      logo: https://icons.duckduckgo.com/ip3/mabbs.github.io.ico
+    - title: 思有云 - IOIOX
+      url: https://www.ioiox.com
+      logo: https://icons.duckduckgo.com/ip3/www.ioiox.com.ico
+    - title: hwchiu learning note Blog
+      url: https://www.hwchiu.com
+      logo: https://icons.duckduckgo.com/ip3/www.hwchiu.com.ico
+    - title: Tinyfool的个人网站
+      url: https://codechina.org
+      logo: https://icons.duckduckgo.com/ip3/codechina.org.ico
+    - title: Mobility
+      url: https://lichuanyang.top
+      logo: https://icons.duckduckgo.com/ip3/lichuanyang.top.ico
+    - title: Hi, DIYgod
+      url: https://diygod.cc
+      logo: https://icons.duckduckgo.com/ip3/diygod.cc.ico
+    - title: YeungYeah 的乱写地
+      url: https://scottyeung.top
+      logo: https://icons.duckduckgo.com/ip3/scottyeung.top.ico
+    - title: 素生
+      url: https://z.arlmy.me
+      logo: https://icons.duckduckgo.com/ip3/z.arlmy.me.ico
+    - title: 见字如面
+      url: https://hiwannz.com
+      logo: https://icons.duckduckgo.com/ip3/hiwannz.com.ico
+    - title: 格物致知
+      url: https://liqiang.io
+      logo: https://icons.duckduckgo.com/ip3/liqiang.io.ico
+    - title: 白宦成
+      url: https://www.ixiqin.com
+      logo: https://icons.duckduckgo.com/ip3/www.ixiqin.com.ico
+    - title: 翻译动态
+      url: https://fanyi.news
+      logo: https://icons.duckduckgo.com/ip3/fanyi.news.ico
+    - title: oldj's blog
+      url: https://oldj.net
+      logo: https://icons.duckduckgo.com/ip3/oldj.net.ico
+    - title: 游牧血液
+      url: https://www.jitao.tech
+      logo: https://icons.duckduckgo.com/ip3/www.jitao.tech.ico
+    - title: Bryan
+      url: http://articles.singee.me
+      logo: https://icons.duckduckgo.com/ip3/articles.singee.me.ico
+    - title: physixfan
+      url: https://www.physixfan.com
+      logo: https://icons.duckduckgo.com/ip3/www.physixfan.com.ico
+    - title: 双绞麻痹
+      url: https://numb.tech
+      logo: https://icons.duckduckgo.com/ip3/numb.tech.ico
+    - title: Terrarum::异世界丨居正博客
+      url: https://blog.skyju.cc
+      logo: https://icons.duckduckgo.com/ip3/blog.skyju.cc.ico
+    - title: Yuko's Blog
+      url: https://blog.amamiyayuuko.com
+      logo: https://icons.duckduckgo.com/ip3/blog.amamiyayuuko.com.ico
+    - title: 游魂博客
+      url: https://www.iyouhun.com
+      logo: https://icons.duckduckgo.com/ip3/www.iyouhun.com.ico
+    - title: 木匣子
+      url: https://blog.mutoo.im
+      logo: https://icons.duckduckgo.com/ip3/blog.mutoo.im.ico
+    - title: Jun's Blog
+      url: https://junz.org
+      logo: https://icons.duckduckgo.com/ip3/junz.org.ico
+    - title: 渚碧
+      url: https://jubeny.com
+      logo: https://icons.duckduckgo.com/ip3/jubeny.com.ico
+    - title: Dawner
+      url: https://dawner.top
+      logo: https://icons.duckduckgo.com/ip3/dawner.top.ico
+    - title: Frank's Weblog
+      url: https://nyan.im
+      logo: https://icons.duckduckgo.com/ip3/nyan.im.ico
+    - title: maxOS
+      url: https://maxoxo.me
+      logo: https://icons.duckduckgo.com/ip3/maxoxo.me.ico
+    - title: Bboysoul's Blog
+      url: https://www.bboy.app
+      logo: https://icons.duckduckgo.com/ip3/www.bboy.app.ico
+    - title: Diff客旅日记
+      url: https://diff.im/blog
+      logo: https://icons.duckduckgo.com/ip3/diff.im.ico
+    - title: JustZht's EchoChamber
+      url: https://www.justzht.com
+      logo: https://icons.duckduckgo.com/ip3/www.justzht.com.ico
+    - title: Phuker's Blog
+      url: https://phuker.github.io
+      logo: https://icons.duckduckgo.com/ip3/phuker.github.io.ico
+    - title: Richie的时光机
+      url: https://riichiie.net
+      logo: https://icons.duckduckgo.com/ip3/riichiie.net.ico
+    - title: Power's Wiki
+      url: https://wiki-power.com
+      logo: https://icons.duckduckgo.com/ip3/wiki-power.com.ico
+    - title: 祝融说。
+      url: https://zhurongshuo.com
+      logo: https://icons.duckduckgo.com/ip3/zhurongshuo.com.ico
+    - title: Allen Hua 的网络博客
+      url: https://hellodk.cn
+      logo: https://icons.duckduckgo.com/ip3/hellodk.cn.ico
+    - title: Robotkang
+      url: https://robotkang.cc
+      logo: https://icons.duckduckgo.com/ip3/robotkang.cc.ico
+
       
 - taxonomy: 云服务商
   icon: fab fa-cloudversify
